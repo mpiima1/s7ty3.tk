@@ -1,0 +1,31 @@
+# Altium project output and temporary files
+*.PcbDocPreview
+*.PcbDocBackup*
+*.SchDocPreview
+*.SchDocBackup*
+*.DRC
+*.LOG
+*.REP
+*.RUL
+*.tmp
+*.bak
+*.zip
+*.pdf
+*.csv
+*.xls
+*.xlsx
+*.emf
+*.bmp
+*.jpg
+*.png
+
+# Output folders
+OutputJob/
+Project Outputs/
+__Previews/
+History/
+Backup/
+Temp/
+
+# System files
+
